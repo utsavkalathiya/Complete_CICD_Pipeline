@@ -4,7 +4,7 @@ A fully automated DevOps pipeline that takes code from `git push` to production 
 
 Every code change is **automatically tested, built, containerized, and deployed** to AWS ECS, typically live within minutes.
 
-🔗 **Project walkthrough:** [View on LinkedIn](https://lnkd.in/eUiUPysX)
+🔗 **Project walkthrough:** [View on LinkedIn]([https://lnkd.in/eUiUPysX](https://lnkd.in/p/gQCeQzsi))
 
 ---
 
